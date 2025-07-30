@@ -36,7 +36,7 @@ I’m passionate about transforming data into clear, actionable insights that dr
 📫 **Let’s connect!**  
 Feel free to explore my projects or reach out:
 
-- 🌐 ![LinkedIn](www.linkedin.com/in/waldo-gutiérrez)
+- 🌐 [LinkedIn](www.linkedin.com/in/waldo-gutiérrez)
 
 ---
 
